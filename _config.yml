@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Your Name / Site Title"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Miguel Correa"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://miguelcorrea.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
@@ -23,11 +23,11 @@ repository               : "miguelcorrea/miguelcorrea.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "mcm.jpg"
+  name             : "Miguel Correa"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Lausanne, Switzerland"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-3840-3273"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "miguelcorrea"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "https://bsky.app/profile/m-correa-m.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "m-correa-m.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
